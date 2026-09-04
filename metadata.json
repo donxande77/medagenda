@@ -1,0 +1,6 @@
+{
+  "name": "MedAgenda",
+  "description": "Sistema completo de agendamento de consultas médicas com verificação em tempo real de disponibilidade, perfis de Administrador e Paciente, prevenção atômica de dupla reserva e notificações automáticas por e-mail e SMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
